@@ -1,0 +1,36 @@
+{
+  "name": "operator-skills",
+  "owner": {
+    "name": "Barry Cunningham",
+    "email": "barry@chsmediagroup.com"
+  },
+  "metadata": {
+    "description": "Twenty-two skills for running a small business: the brief that teaches Claude your business once, then marketing, sales, operations, finance, hiring and copy built on top of it.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "operator-skills",
+      "displayName": "Operator Skills",
+      "description": "Twenty-two skills for running a small business: the brief that teaches Claude your business once, then marketing, sales, operations, finance, hiring and copy built on top of it.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "BACDC843/operator-skills"
+      },
+      "author": {
+        "name": "Barry Cunningham",
+        "email": "barry@chsmediagroup.com"
+      },
+      "homepage": "https://github.com/BACDC843/operator-skills",
+      "license": "LicenseRef-Proprietary",
+      "category": "productivity",
+      "keywords": [
+        "small-business",
+        "marketing",
+        "sales",
+        "operations"
+      ]
+    }
+  ]
+}
