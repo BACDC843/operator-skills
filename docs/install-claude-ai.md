@@ -84,6 +84,11 @@ Repeat steps 3 and 4 for each of the other twenty-one zips.
 You do not have to install them all. Install what you will use — you can always come back
 and add more later.
 
+**There is a real reason not to install all twenty-two.** Claude reads every installed
+skill's description to work out when to use it, so all twenty-two together add roughly 2,900
+tokens to every conversation whether you use one or not. Eight skills is about half that.
+Nothing breaks either way, but a leaner list leaves more room for your actual work.
+
 If you are not sure where to start, these four earn their keep fastest for most businesses:
 
 | Skill | Use it when |
